@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fa34b34-4ff3-448c-85bb-f2ff6bf46c04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../강의 md/1) 자바 프로그래밍 시작하기.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../강의 md/2) 변수와 자료형(1).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../강의 md/images/2021-08-04-03-05-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/out/production/Chapter2/com/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/out/production/Chapter2/com/main/binary/Binary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/out/production/Chapter2/com/main/binary/Binary2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/com/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/com/main/binary/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/com/main/binary/Binary2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/First.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/out/production/First/com/firstapp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/out/production/First/com/firstapp/hello/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/src/com/firstapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First/src/com/firstapp/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../md/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1wEmkVmPGKwvuTpJFjdvnZWTnBv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fa34b34-4ff3-448c-85bb-f2ff6bf46c04" name="Default Changelist" comment="" />
+      <created>1628032264650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628032264650</updated>
+      <workItem from="1628032265823" duration="162000" />
+      <workItem from="1628035014891" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
