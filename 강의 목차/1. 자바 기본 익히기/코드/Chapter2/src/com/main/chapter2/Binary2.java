@@ -9,7 +9,7 @@
 * @version : 1.0.0
 * @see :
 */
-package com.main.binary;
+package com.main.chapter2;
 
 public class Binary2 {
     /**
