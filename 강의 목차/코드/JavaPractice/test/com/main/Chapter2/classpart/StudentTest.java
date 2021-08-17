@@ -18,7 +18,7 @@ class StudentTest {
 
     @Test
     void showStudentInfo1(){
-        Assertions.assertEquals(testStudent.showStudentInfo(), "Yurim");
+        Assertions.assertEquals(testStudent.getStudentName(), "Yurim");
     }
 
 

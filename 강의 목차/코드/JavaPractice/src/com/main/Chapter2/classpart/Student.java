@@ -14,16 +14,17 @@ public class Student {
         this.address = address;
     }
 
-    public String showStudentInfo(){
-        System.out.println("studentName = " + studentName);
-        System.out.println("address = " + address);
+    public void setStudentName(String studentName) {
+        this.studentName = studentName;
+    }
 
+    public String getStudentName(){
         return studentName;
     }
 
     public static void main(String[] args) {
         Student studen_Lee = new Student(1, "Yang HoJun", 100, "146 Street");
-        studen_Lee.showStudentInfo();
+        studen_Lee.getStudentName();
     }
 
 }
