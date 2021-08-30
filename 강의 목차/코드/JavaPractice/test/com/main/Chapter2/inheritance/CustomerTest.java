@@ -10,7 +10,8 @@ class CustomerTest {
     void calculatePrice() {
 
         Customer customerNormal = new Customer(10010, "호준", 1000);
-        Customer customerVIP = new VIPCustomer()
+        Customer customerVIP = new VIPCustomer(10101, "kim");
+
 
     }
 }
