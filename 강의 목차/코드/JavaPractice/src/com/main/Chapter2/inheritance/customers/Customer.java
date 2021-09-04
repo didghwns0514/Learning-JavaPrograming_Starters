@@ -1,4 +1,4 @@
-package com.main.Chapter2.inheritance;
+package com.main.Chapter2.inheritance.customers;
 
 public class Customer {
 	
@@ -63,4 +63,6 @@ public class Customer {
 		this.customerGrade = customerGrade;
 	}
 
+	public int getBonusPoint() {
+		return bonusPoint;}
 }

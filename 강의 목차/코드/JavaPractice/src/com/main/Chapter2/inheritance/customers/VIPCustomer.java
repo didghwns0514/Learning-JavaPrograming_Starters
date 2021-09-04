@@ -1,4 +1,4 @@
-package com.main.Chapter2.inheritance;
+package com.main.Chapter2.inheritance.customers;
 
 public class VIPCustomer extends Customer{
 
@@ -13,6 +13,12 @@ public class VIPCustomer extends Customer{
 	//	System.out.println("VIPCusomer() ������ ȣ��");
 	}
 
+	public VIPCustomer(int customerID, String customerName){
+		super(customerID, customerName);
+		customerGrade = "VIP";
+		bonusRatio = 0.05;
+		saleRatio = 0.1;
+	}
 	public VIPCustomer(int customerID, String customerName, int agentID){
 		super(customerID, customerName);
 		customerGrade = "VIP";
