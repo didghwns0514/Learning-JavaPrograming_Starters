@@ -18,6 +18,12 @@ public class AnimalTest {
         static void moveAnimal(Animal animal) {
             // 다형성, 코드는 1줄인데 가상 메서드의 도움으로 기능 추가된 객체들도 같은 메서드를 사용하고, 인터페이스의 메서드를 동일하게 취급할 수 있음
             animal.move();
+
+            if (animal instanceof Human) {
+                ((Human) animal).read(); // 다운캐스팅을 해야 인스턴스의 해당 메서드를 사용할 수 있음
+            } else if (animal instanceof Tiger) {
+                ((Tiger) animal).hunt();
+            }
         }
     }
 
@@ -26,8 +32,6 @@ public class AnimalTest {
 
         WrapperAnimal.moveAllAnimals();
     }
-
-
 
 }
 
