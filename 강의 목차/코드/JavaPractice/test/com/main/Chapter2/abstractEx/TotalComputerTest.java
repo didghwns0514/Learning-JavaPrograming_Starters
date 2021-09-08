@@ -34,6 +34,6 @@ public class TotalComputerTest {
 
         com2.display();
         com4.display();
-        
+
     }
 }
