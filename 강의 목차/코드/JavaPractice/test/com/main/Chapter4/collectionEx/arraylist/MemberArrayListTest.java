@@ -39,6 +39,13 @@ class MemberArrayListTest {
     }
 
     @Test
+    void removeMemberByIDIterator() {
+        memberArrayList.showAll();
+        memberArrayList.removeMemberByIdIterator(2);
+        memberArrayList.showAll();
+    }
+
+    @Test
     void showAll() {
     }
 }
